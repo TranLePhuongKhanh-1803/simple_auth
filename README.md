@@ -9,5 +9,8 @@ Khi gửi request phải kèm header `Authorization: Basic <credentials>`.
 npm install
 node basic_auth.js
 ## Test PostMan:
-![Postman Test](./docs/test-postman.png)
-![alt text](image.png)
+ Get API: http://localhost:3000/ 
+ user:admin
+ pass:12345
+## Kết quả test Postman
+![Postman Test](https://raw.githubusercontent.com/TranLePhuongKhanh-1803/simple_auth/09352af306c10dbabc29dd65819b9df2076a250a/public/results/Postman_simple_auth.png)
