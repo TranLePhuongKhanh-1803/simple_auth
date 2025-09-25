@@ -19,5 +19,5 @@ node basic_auth.js
 
 
 
-![Postman Test](./public/results/Postman_simple_auth.png)
+![Postman Test](public/results/Postman_simple_auth.png)
 
