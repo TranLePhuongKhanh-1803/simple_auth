@@ -20,3 +20,4 @@ User: admin
 
 Pass: 12345
 ![Postman Test](public/results/Postman_simple_auth.png)
+<img width="1766" height="1068" alt="Postman_simple_auth" src="https://github.com/user-attachments/assets/a858dc49-d4fa-45ef-a66b-fa713683c326" />
