@@ -19,4 +19,4 @@ URL: http://localhost:3000/
 User: admin
 
 Pass: 12345
-![Postman Test](../public/results/Postman_simple_auth.png)
+![Postman Test](public/results/Postman_simple_auth.png)
